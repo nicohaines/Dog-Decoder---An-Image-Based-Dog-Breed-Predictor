@@ -1,0 +1,14 @@
+# Datasets
+data/
+Data/
+
+# Python environments
+.venv/
+.venv-tf/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac files
+.DS_Store
