@@ -1,6 +1,7 @@
 # Datasets
 data/
 Data/
+dog-breed-identification/
 
 # Python environments
 .venv/
